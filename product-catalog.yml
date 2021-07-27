@@ -2,6 +2,9 @@ server:
   port:
     8081
 
+elasticsearch:
+  url: http://localhost:9200
+
 eureka:
   instance: 
     hostname: localhost
