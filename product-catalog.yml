@@ -3,7 +3,7 @@ server:
     8081
 
 elasticsearch:
-  url: http://localhost:9200
+  url: localhost:9200
 
 eureka:
   instance: 
